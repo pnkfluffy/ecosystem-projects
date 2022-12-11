@@ -1,0 +1,22 @@
+{
+  "name": "Cookbook",
+  "slug": "cookbook",
+  "date": "2022-12-10",
+  "highlight": "An open source registry of smart contracts and solidity libraries",
+  "logo": "/img/cookbook.png",
+  "tags": [
+    "dapp",
+    "infrastructure",
+    "tools"
+  ],
+  "status": "live",
+  "website": "https://www.cookbook.dev/",
+  "twitter": "https://twitter.com/cookbook_dev",
+  "summary": "Cookbook is the hub for smart contracts. It is one platform where you can find, deploy, and collaborate on any contract in EVM. You can view audits, documentation, and usage, as well as deploy and manage the contracts from the user interface.",
+  "telegram": "https://t.me/cookbook_dev",
+  "discord": "http://discord.gg/DAgJVfvxPC",
+  "docs": "",
+  "github": "https://github.com/Breakthrough-Labs",
+  "token": "",
+  "cmc": ""
+}
